@@ -4,9 +4,7 @@ zuul:
     order:
       path: /mzd-order/**
       serviceId: mzd-order
-    user:
-      path: /mzd-user/**
-      serviceId: mzd-user
+
 
 
 
